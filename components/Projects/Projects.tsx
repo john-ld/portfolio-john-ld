@@ -9,7 +9,7 @@ const PROJECTS = [
     image: "portfolio.png",
     description:
       "Mon portfolio personnel, réalisé avec Next.js et Tailwind CSS.",
-    github: "#",
+    github: "https://github.com/john-ld/portfolio-john-ld.git",
   },
   {
     title: "Nina Carducci",
