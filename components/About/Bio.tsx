@@ -33,16 +33,19 @@ export default function Bio() {
         <div className="flex-1">
           <CardTitle className="text-2xl mb-8">Qui suis-je ?</CardTitle>
           <p className="leading-relaxed text-accent-foreground/80">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-            facilisis, nisi nec vehicula cursus, metus nulla egestas sem, id
-            ultrices tortor purus in enim. Curabitur magna risus, vehicula eu
-            risus nec, consequat pharetra ipsum. Donec fermentum sapien id
-            congue maximus. Nunc dolor elit, ultrices eget libero id, ultricies
-            volutpat velit. Vestibulum euismod condimentum sodales. Etiam mauris
-            lacus, dapibus a libero id, accumsan fermentum nulla. Nullam sed
-            lorem consequat, pulvinar tortor nec, tempor justo. Phasellus tortor
-            augue, molestie non euismod id, vehicula ut tortor. Donec congue
-            lobortis iaculis.
+            Passionné par le développement web et les technologies modernes, je
+            suis un développeur front-end créatif et rigoureux. Après une
+            formation solide en intégration web, j’ai acquis des compétences
+            variées en HTML, CSS (SASS),JavaScript, et React. Mon objectif ?
+            Transformer des idées en expériences numériques captivantes,
+            accessibles et optimisées. Toujours curieux, j’aime relever des
+            défis techniques et apprendre de nouvelles pratiques pour rester à
+            la pointe des tendances. Mon portfolio reflète mon engagement à
+            concevoir des interfaces dynamiques et responsives, adaptées aux
+            besoins des utilisateurs. Quand je ne code pas, vous pouvez me
+            trouver en train d’explorer des outils innovants ou d’échanger avec
+            d’autres passionnés du web. Ensemble, construisons le web de demain
+            !
           </p>
         </div>
       </CardContent>
