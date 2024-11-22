@@ -33,19 +33,11 @@ export default function Bio() {
         <div className="flex-1">
           <CardTitle className="text-2xl mb-8">Qui suis-je ?</CardTitle>
           <p className="leading-relaxed text-accent-foreground/80">
-            Passionné par le développement web et les technologies modernes, je
-            suis un développeur front-end créatif et rigoureux. Après une
-            formation solide en intégration web, j’ai acquis des compétences
-            variées en HTML, CSS (SASS),JavaScript, et React. Mon objectif ?
-            Transformer des idées en expériences numériques captivantes,
-            accessibles et optimisées. Toujours curieux, j’aime relever des
-            défis techniques et apprendre de nouvelles pratiques pour rester à
-            la pointe des tendances. Mon portfolio reflète mon engagement à
-            concevoir des interfaces dynamiques et responsives, adaptées aux
-            besoins des utilisateurs. Quand je ne code pas, vous pouvez me
-            trouver en train d’explorer des outils innovants ou d’échanger avec
-            d’autres passionnés du web. Ensemble, construisons le web de demain
-            !
+            Développeur front-end passionné, je conçois des interfaces modernes,
+            dynamiques et accessibles. Spécialisé en HTML, CSS (SASS),
+            JavaScript et React, je transforme des idées en expériences
+            utilisateur optimisées. Curieux et créatif, je suis toujours prêt à
+            relever de nouveaux défis techniques pour façonner le web de demain.
           </p>
         </div>
       </CardContent>
