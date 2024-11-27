@@ -7,7 +7,7 @@ import MatrixRain from "@/components/theme/MatrixRain";
 export default function Home() {
   return (
     <main className="min-h-[85vh]">
-      <div className="py-40 relative group">
+      <div className="py-40 relative group max-md:py-8">
         <MatrixRain />
         <Hero />
       </div>

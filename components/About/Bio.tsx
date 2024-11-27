@@ -14,8 +14,8 @@ export default function Bio() {
   return (
     <Card className="mb-8 bg-background">
       <CardHeader></CardHeader>
-      <CardContent className="flex gap-6 justify-between">
-        <div className="relative group flex flex-col gap-4 flex-2 min-w-96 items-center">
+      <CardContent className="flex gap-6 justify-between max-md:flex-col">
+        <div className="relative group flex flex-col gap-4 flex-2 min-w-96 items-center max-md:min-w-[100%]">
           <Image
             src={`/profile.webp`}
             alt={"Profile picture"}
@@ -29,7 +29,10 @@ export default function Bio() {
           </h3>
           <span className="text-md">Développeur Front-End</span>
         </div>
-        <Separator orientation="vertical" className="h-auto mx-8" />
+        <Separator
+          orientation="vertical"
+          className="h-auto mx-8 max-md:hidden"
+        />
         <div className="flex-1">
           <CardTitle className="text-2xl mb-8">Qui suis-je ?</CardTitle>
           <p className="leading-relaxed text-accent-foreground/80">

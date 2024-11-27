@@ -52,7 +52,7 @@ export default function Projects() {
   return (
     <Section>
       <SectionTitle title="Projets" />
-      <div className="grid grid-cols-3 gap-4">
+      <div className="grid grid-cols-3 gap-4 max-md:grid-cols-1 max-lg:grid-cols-2">
         {PROJECTS.map((project) => (
           <ProjectItem
             key={project.title}
