@@ -19,7 +19,6 @@ export default function Bio() {
           <Image
             src={`/profile.webp`}
             alt={"Profile picture"}
-            priority
             width={150}
             height={150}
             className="rounded-full object-cover"
