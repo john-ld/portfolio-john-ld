@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className="py-16">
       <Section className="flex justify-between max-sm:flex-col max-sm:gap-4 max-sm:items-center max-sm:justify-center">
         <Title />
-        <span>Johnny Le Dref &copy; 2024</span>
+        <span>Johnny Le Dref &copy; 2025</span>
       </Section>
     </footer>
   );
